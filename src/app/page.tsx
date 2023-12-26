@@ -60,7 +60,7 @@ export default function Home() {
 
             <h1 className='font-semibold text-3xl mt-10'> Good Afternoon</h1>
 
-            <div className='grid grid-cols-3 gap-6 mt-5'>
+            <div className='grid grid-cols-3 gap-6 mt-4'>
               <a href='#' className='bg-white/10 rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 transition-colors'> 
                 <Image src="/album-skillet.png" width={104} height={104} alt="Capa album Skillet"/>
                 <strong>Skillet</strong>
